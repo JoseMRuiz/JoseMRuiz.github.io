@@ -54,3 +54,17 @@ button{
 button:hover{
     background-color:rgba(0,136,169,0.6);
 }
+
+.container{
+    display:flex
+}
+
+.contenido1{
+    font-size:20px;
+}
+.img-portfolio{
+    width:350px;
+    height:400px;
+    border-radius:5px;
+
+}
