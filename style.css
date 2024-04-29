@@ -60,11 +60,12 @@ button:hover{
 }
 
 .contenido1{
+    margin-left:2%;
     font-size:20px;
 }
 .img-portfolio{
     width:350px;
     height:400px;
     border-radius:5px;
-
+    margin-left:10%;
 }
