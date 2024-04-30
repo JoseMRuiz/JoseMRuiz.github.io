@@ -110,5 +110,21 @@ h3{
 
 .caja{
     margin-top:5%;
+    border:5px Solid #2E5EAA;
+    border-radius:5px;
+} 
+
+ol {
+    list-style-type: none; 
 }
+
+.links {
+    display: block; 
+    margin-bottom: 10px; 
+}
+
+.iconos{
+    width:1rem;
+}
+
 
