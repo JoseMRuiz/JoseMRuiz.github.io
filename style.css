@@ -60,12 +60,32 @@ button:hover{
 }
 
 .contenido1{
-    margin-left:2%;
-    font-size:20px;
+    margin-left:10%;
+
+}
+
+.imagen1{
+    padding-right:15%;
+    padding-left:15%;
+    
 }
 .img-portfolio{
-    width:350px;
+    width:450px;
     height:400px;
     border-radius:5px;
-    margin-left:10%;
+    margin-left:10px;
+    
+}
+
+.texto1{
+    font-size:60px;
+    margin-bottom:20px;
+}
+.parrafo{
+    color:#fff;
+    font-size:20px;
+    margin-bottom:20px;
+}
+.botones{
+    margin:2%
 }
