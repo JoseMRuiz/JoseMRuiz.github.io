@@ -110,9 +110,12 @@ h3{
 
 .caja{
     margin-top:5%;
+    
+} 
+.caja:hover{
     border:5px Solid #2E5EAA;
     border-radius:5px;
-} 
+}
 
 ol {
     list-style-type: none; 
